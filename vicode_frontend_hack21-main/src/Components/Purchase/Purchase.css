@@ -1,0 +1,40 @@
+#purchase {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    overflow: hidden;
+    height: 70vh;
+    background-color: #51B6EE;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+#purchase #purchase-text {
+    margin-top: 5%;
+    font-size: 5vh;
+}
+
+#purchase #purchase-button {
+    text-decoration: none;
+    padding: 1%;
+    width: 30vh;
+    color: white;
+    background-color: #5BBFF8;
+    border: 3px solid white;
+    border-radius: 50px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+#purchase-button:hover {
+    transition-duration: 0.2s;
+}
+#purchase img {
+    width: 80vh;
+    position: absolute;
+    bottom: 0;
+}
