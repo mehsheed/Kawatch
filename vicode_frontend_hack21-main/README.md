@@ -12,7 +12,7 @@
 
 #### LINKS:
 
-`Hosted Site:` [Netlify](https://kawatch-hack21-frontend.netlify.app/)
+`Hosted Site:` [Netlify](tinyurl.com/kawatch)
 
 `Google Docs:` [Submission](https://docs.google.com/document/d/1mSyb5bxxoSUeNVLJFlUKdaouvLW6DcqMuoeFPW9TjmI/edit?usp=sharing)
 
